@@ -46,6 +46,7 @@ Mendapatkan hasil Program sebagai berikut:
 
 4.	Setelah initial dan goal state diubah sesuai pada soal maka akan menghasilkan puzzle sebagai berikut:
  
+![Screenshot 2023-10-30 220448](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/b2f9854d-f69d-4026-9aeb-30637b9fba6f)
 
 Hasil yang didapatkan adalah solusi dari permainan 8-Puzzle. Permainan 8-Puzzle adalah permainan teka-teki di mana memiliki kotak berukuran 3x3 yang berisi angka 1 hingga 8, serta satu tempat kosong yang digunakan untuk memindahkan angka-angka tersebut. Tujuan dari permainan ini adalah mengatur angka-angka tersebut sehingga membentuk urutan yang benar dari 1 hingga 8.  Dalam hasil yang didapatkan, program mencetak urutan langkah-langkah yang harus diambil dari keadaan awal (Root) untuk mencapai keadaan tujuan (Solution found). Setiap langkah mencakup pemindahan angka dari satu kotak ke kotak lainnya atau memindahkan kotak kosong. Solusi ini adalah solusi optimal, yang berarti jumlah langkah yang diambil adalah yang paling sedikit.
 
@@ -79,8 +80,7 @@ Sehingga menghasilkan sebagai berikut:
 4 2 5 6 1 3 8 7 0
 
 
-![Screenshot 2023-10-30 220448](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/b2f9854d-f69d-4026-9aeb-30637b9fba6f)
 
-![Screenshot 2023-10-30 220437](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/929e2023-b153-4969-b02f-d5e98b8a419f)
+
 
 
