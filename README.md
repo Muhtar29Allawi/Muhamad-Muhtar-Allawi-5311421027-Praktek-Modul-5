@@ -9,6 +9,9 @@ MODUL 5
 TEKNIK HEURISTIC SEARCH
 
 1.	Pada source code yang saya buat akan menghasilkan sebagai berikut:
+
+![Screenshot 2023-10-30 065831](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/fd599e85-cfdb-46ce-a67f-f5f1b6fb131a)
+
  
 -	Root: 3 1 2 4 7 5 6 8 0: Ini adalah keadaan awal (root node) dari permainan Puzzle dengan keadaan ubin seperti yang dinyatakan dalam urutan angka.
 -	Setelah melakukan pencarian, program menemukan solusi, dan kemudian mencetak "Solution found" untuk memberi tahu bahwa solusi telah ditemukan.
