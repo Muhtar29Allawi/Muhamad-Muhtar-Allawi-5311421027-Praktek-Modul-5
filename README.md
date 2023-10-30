@@ -38,16 +38,20 @@ Node Class:
 Ketiga kelas ini bekerja sama untuk melaksanakan pencarian solusi dalam masalah Eight Puzzle menggunakan algoritma A* dengan fungsi heuristik untuk menginformasikan pencarian. EightPuzzleSearch mengatur logika pencarian, EightPuzzleSpace menyediakan informasi tentang keadaan awal dan tujuan, sementara Node mewakili setiap keadaan dalam pencarian dan menghitung biaya serta jalur yang ditempuh.
 
 2.	Pada soal kedua setelah mengubah initial dan goal state maka akan menjadi sebuah program yang akan menjalankan puzzle sesuai keadaan awal dan goals yang dituju. Sehingga akan menhasilkan program sebagai berikut:
+
+![Screenshot 2023-10-30 222751](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/73d51f42-4a23-4063-9799-19ac9b210545)
+
  
 
 
-3.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya Gambar 5.9. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state.  Analisa dan bedakan dengan solusi pada point 1 dan 2.
+4.	Ubahlah initial dan goal state dari program  di atas sehingga bentuk initial dan goal statenya Gambar 5.9. Kemudian tentukan langkah-langkah mana saja sehingga puzzlenya mencapai goal state.  Analisa dan bedakan dengan solusi pada point 1 dan 2.
 Mendapatkan hasil Program sebagai berikut:
  
+![Screenshot 2023-10-30 222808](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/7f1ccfec-2c51-499e-b418-21b1e45f4d9e)
 
 
 
-4.	Setelah initial dan goal state diubah sesuai pada soal maka akan menghasilkan puzzle sebagai berikut:
+5.	Setelah initial dan goal state diubah sesuai pada soal maka akan menghasilkan puzzle sebagai berikut:
  
 ![Screenshot 2023-10-30 220448](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-5/assets/148027728/b2f9854d-f69d-4026-9aeb-30637b9fba6f)
 
